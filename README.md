@@ -63,6 +63,12 @@ Key Insights (Summary) 💡
 
 • Both B2B (Corporate, Home Office) and Consumer segments show strong repeat behavior
 
+## Dashboard Overview
+
+![Dashboard Overview](Dashboard\(Image\).png)
+
+A snapshot of the Power BI dashboard showing KPIs, charts, slicers, and interactive components used for sales analysis.
+
 How to Explore the Dashboard 🧭
 
 • Open Sales_Dashboard.pbix in Power BI Desktop
