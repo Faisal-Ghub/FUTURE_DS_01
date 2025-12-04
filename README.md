@@ -65,7 +65,7 @@ Key Insights (Summary) 💡
 
 ## Dashboard Overview
 
-![Dashboard Overview](Dashboard\(Image\).png)
+![Dashboard Overview](Dashboard_overview.png)
 
 A snapshot of the Power BI dashboard showing KPIs, charts, slicers, and interactive components used for sales analysis.
 
